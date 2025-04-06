@@ -1,0 +1,1127 @@
+[
+    {
+        "url": "https://www.geeksforgeeks.org/about/?ref=footer",
+        "title": "About Us",
+        "description": [
+            "GeeksforGeeks is a leading platform that provides computer science resources and coding challenges for programmers and technology enthusiasts, along with interview and exam preparations for upcoming aspirants. With a strong emphasis on enhancing coding skills and knowledge, it has become a trusted destination for over 12 million plus registered users worldwide. The platform offers a vast collection of tutorials, practice problems, interview tutorials, articles, and courses, covering various domains of computer science.",
+            "Our exceptional mentors hailing from top colleges & organizations have the ability to guide you on a journey from the humble beginnings of coding to the pinnacle of expertise. Under their guidance watch your skills flourish as we lay the foundation and help you conquer the world of coding."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/java/?ref=footer",
+        "title": "Java",
+        "description": [
+            "Java is one of the most popular and widely used programming languages.",
+            "According to report of Statista, Java is most demanded programming languages after JavaScript by recruiters worldwide in 2024. Major MNC companies are recruiting Java Programmers."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/data-structures/?ref=footer",
+        "title": "Data Structures",
+        "description": [
+            " are the fundamental building blocks of computer programming. They define how data is organized, stored, and manipulated within a program. Understanding data structures is very important for developing efficient and effective algorithms. ",
+            "In this tutorial, we will explore the most commonly used data structures, including arrays, linked lists, stacks, queues, trees, and graphs."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/r-tutorial/?ref=footer",
+        "title": "R Language",
+        "description": [
+            " is an ",
+            "programming language widely used for statistical computing, data analysis and visualization. R language is open-source with large community support. R provides structured approach to data manipulation, along with decent libraries and packages like Dplyr, Ggplot2, shiny, Janitor and more."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/community/?ref=footer",
+        "title": "Geeks Community",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/c-plus-plus/?ref=footer",
+        "title": "C++",
+        "description": [
+            "C++ is a computer programming language developed by Bjarne Stroustrup as an extension of the C language. It is known for is fast speed, low level memory management and is often taught as first programming language. It provides:",
+            "This C++ tutorial is designed to provide a guide for easy and efficient learning of both core and advanced concepts of C++. Each concept is explained with simple illustrations and practical code examples that can be executed easily. This tutorial also provides quizzes and practice problems after each section to test your understanding."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/android-tutorial/?ref=footer",
+        "title": "Android Tutorial",
+        "description": [
+            "In this ",
+            ", we cover both basic and advanced concepts. So whether you are a fresher (graduate) or an experienced candidate with several years of "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/sql-tutorial/?ref=footer",
+        "title": "SQL",
+        "description": [
+            "SQL is a ",
+            " used to access and "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/dsa-self-paced?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=course/?ref=footer",
+        "title": "DSA in JAVA/C++",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/competitive-programming-cp?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=course",
+        "title": "Master CP",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/gate-rank-predictor?ref=footer",
+        "title": "GATE Rank Predictor",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/mastering-system-design-low-level-to-high-level-solutions?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=course/?ref=footer",
+        "title": "Master System Design",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/videos/?ref=footer",
+        "title": "GeeksforGeeks Videos",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/go/",
+        "title": "GoLang",
+        "description": [
+            "Go or you say Golang is a procedural and statically typed programming language having the syntax similar to ",
+            " programming language. It was developed in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson at Google but launched in 2009 as an open-source programming language and mainly used in Google’s production systems. Golang is one of the most trending programming languages among developers.  It provides a rich standard library, garbage collection, and dynamic-typing capability."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/gate-2026-csit?ref=footer",
+        "title": "GATE CS & IT Course - 2026",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/gate-da-rank-booster?ref=footer",
+        "title": "GATE DA Rank Booster",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/gate-da-2026?ref=footer",
+        "title": "GATE DA Course 2026",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/php-tutorial/",
+        "title": "PHP",
+        "description": [
+            "PHP (Hypertext Preprocessor) is a versatile and widely used ",
+            ". This PHP tutorial will give you an in-depth understanding of the PHP scripting language. Whether you are a beginner or a professional PHP developer this free PHP tutorial will provide valuable knowledge about PHP scripting language."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/salesforce-certified-administrator?ref=footer",
+        "title": "Salesforce Certified Administrator Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/gate-rank-booster?ref=footer",
+        "title": "GATE CS Rank Booster",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-programming-language-tutorial/",
+        "title": "Python",
+        "description": [
+            "- Python is one of the most popular programming languages today, known for its simplicity, extensive features and library support. Its clean and straightforward syntax makes it beginner-friendly, while its powerful libraries and frameworks makes it perfect for developers. ",
+            ":"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/master-python-complete-beginner-to-advanced?ref=footer",
+        "title": "Python Full Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/java-online-course-complete-beginner-to-advanced?ref=footer",
+        "title": "Java Programming Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/category/ibm-certification?ref=footer",
+        "title": "Data Science Course with IBM Certification",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?ref=footer",
+        "title": "Mastering Generative AI and ChatGPT",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/devops-live?ref=footer",
+        "title": "DevOps Engineering",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program?ref=footer",
+        "title": "Data Science Training Program - [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/data-analytics-training-program-excel-sql-python-powerbi?ref=footer",
+        "title": "Data Analytics Training using Excel, SQL, Python & PowerBI - [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced?ref=footer",
+        "title": "C++ Programming Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/android-by-kotlin?ref=footer",
+        "title": "Android Mastery with Kotlin [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/data-science-live?ref=footer",
+        "title": "Complete Machine Learning & Data Science Program - [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/full-stack-node?ref=footer",
+        "title": "Full Stack Development - [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/Java-backend-live?ref=footer",
+        "title": "JAVA Backend Development - [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/mastering-django-framework-beginner-to-advance?ref=footer",
+        "title": "Django Web Development Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/react-native-course-online?ref=footer",
+        "title": "React Native Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/react-js-beginner-to-advance?ref=footer",
+        "title": "React JS Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/javascript?ref=footer",
+        "title": "JavaScript Full Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/placement-prep-live?ref=footer",
+        "title": "Placement Preparation Crash Course [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?ref=footer",
+        "title": "DSA to Development [HYBRID]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/interviewe-101-data-structures-algorithm-system-design?ref=footer",
+        "title": "Tech Interview 101 - From DSA to System Design [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/mastering-system-design-low-level-to-high-level-solutions?ref=footer",
+        "title": "Mastering System Design: LLD to HLD",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/core-computer-science-for-interview-preparation?ref=footer",
+        "title": "Core CS Subject for Interview Preparation",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/competitive-programming-cp?ref=footer",
+        "title": "Master Competitive Programming",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/complete-interview-preparation?ref=footer",
+        "title": "Complete Interview Preparation",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced?ref=footer",
+        "title": "C Programming Course Online - Learn C with Data Structures",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/software-testing-course-online?ref=footer",
+        "title": "Complete Software Testing Course [LIVE]",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/Data-Structures-With-Python?ref=footer",
+        "title": "DSA in Python - Self Paced",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/share-your-experiences-on-geeksforgeeks/?ref=footer",
+        "title": "Share your Experiences",
+        "description": [
+            "Experience equips you with the skills needed to succeed in the workplace and in life in general. They influence our identity and worldview. They help us learn important things and develop as people. Whether you're a student, a professional, or a job seeker, having relevant experiences will set you apart from the competition.",
+            "Geeksforgeeks has extended its platform to anyone with an experience to share, be it about an interview, job, college, exam preparation, coding tests, professional degree, government exam, or even techno-cultural fests. Your experiences might help our readers prepare better in their interviews, pick a better-suited college, get insights about their dream workplace, get aid with their competitive exam preparations, and more. Here are some experiences we are accepting:"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/dsa-self-paced?ref=footer",
+        "title": "DSA - Self Paced Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/how-to-improve-an-article/?ref=footer",
+        "title": "Improve an Article",
+        "description": [
+            "Now, you can help other geeks by improving an existing article on GeeksforGeeks.",
+            " After clicking on it, you will get a copy of the same published article where you will be able to edit the content. Please make your improvements there and resubmit it for review. We will approve valid improvement(s). Your Credential ("
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/javascript",
+        "title": "Complete Bootstrap Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/data-structures-and-algorithms-in-javascript?ref=footer",
+        "title": "DSA in JavaScript - Self Paced Course",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/random-password-generator/?ref=footer",
+        "title": "Random Password Generator",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/offline-courses",
+        "title": "Offline Classes (Delhi/NCR)",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/random-number-generator/?ref=footer",
+        "title": "Random Number Generator",
+        "description": [
+            " is a simple online tool used to generate random numbers between any two given numbers. Generate random positives with or without repeats within a custom range from 0 to 99999.",
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/currency-converter/?ref=footer",
+        "title": "Currency Converter",
+        "description": [
+            "This ",
+            " allows you to check the latest average bid/ask rates for major world currencies. Our rates are sourced from leading market data contributors."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/online-code-formatter/?ref=footer",
+        "title": "Code Formatters",
+        "description": [
+            " and ",
+            " tools are essential tools for improving the overall look and maintainability of source code. These tools can automatically reformat code to comply with consistent styling guidelines such as indentation, spacing, and alignment, making code easier to read and understand. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/online-image-editor/?ref=footer",
+        "title": "Image Editor",
+        "description": [
+            " is a ",
+            " that allows users to "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/online-file-converters/?ref=footer",
+        "title": "Code Converters",
+        "description": [
+            "Converters are tools that transform code from one programming language or format to another(e.g., JSON to XML).  They facilitate seamless migration, allowing developers to switch between languages or adapt code to different frameworks. These tools automate the conversion process, ensuring accuracy and saving time by translating syntax, functions, and structures to the desired language or format.",
+            "There are so many reasons to use online Converters, these are discussed below:"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/free-typing-test/?ref=footer",
+        "title": "Typing Test",
+        "description": [
+            " measures your typing speed and accuracy. It involves typing a given ",
+            "within a set "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/page/1/?ref=footer",
+        "title": "Recent Articles",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/?ref=footer",
+        "title": "All Cheat Sheets",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/excel-tutorial/?ref=footer",
+        "title": "Excel",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/linux-tutorial/?ref=footer",
+        "title": "Linux",
+        "description": [
+            " is a widely-used open-source ",
+            ", similar to Windows, Mac, and Android. It shares similarities with Unix, another operating system known for its commercial use. Unix and Linux have comparable components, including the kernel, shell, and programs. Many commands in Unix and Linux exhibit similar behavior and syntax."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/software-testing-tutorial/?ref=footer",
+        "title": "Software Testing",
+        "description": [
+            " The Software Testing Tutorial serves as a comprehensive guide for learning Software Testing. It covers all software testing basics to the most advanced concepts, making it beneficial for both beginners and experienced professionals. ",
+            " Testing is basically a collection of methods to evaluate an application’s suitability for use by a predetermined script. The basic goal of testing is to find application flaws so that they may be identified and fixed. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/software-development/?ref=footer",
+        "title": "Software Development",
+        "description": [
+            "Software development is defined as the process of designing, creating, testing, and maintaining computer programs and applications. This software development roadmap is best suited for students as well as software development enthusiasts. It covers all the terminologies and details that will guide a software development enthusiast, starting with an introduction to software development, the software development life cycle, software development methodologies, the Agile Framework, software development processes, and interview experience and questions.",
+            "Software de­velopment"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/product-management/?ref=footer",
+        "title": "Product Management",
+        "description": [
+            "Product management is an all-around process that involves planning, development, launching, marketing, and post-sales improvement of a product and service. Product management includes the complete lifecycle of the product or service, from idea generation to product development to the final launch. The product manager is an entity or a person who is responsible for looking after all these issues and collaborating with different teams, to bring out the best product that fits every need of customers.",
+            "Product management"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/detailed-syllabus-of-ibps-clerk/?ref=footer",
+        "title": "IBPS Clerk",
+        "description": [
+            "The IBPS Clerk syllabus for Prelims and Mains is set by the Institute of Banking Personnel Selection. The Institute of Banking Personnel Selection holds the IBPS Clerk test every year to employ clerks for Public Sector Banks. To know what will be covered in the exam and what to study for, applicants must thoroughly comprehend and assess the IBPS Clerk Clerk Syllabus 2023. To determine the weightage of the sub-topics asked in each part of the Preliminary and Mains examinations, candidates could consult previous years’ papers and online test series. Those who pass the preliminary stage are advised to take the Mains exam. ",
+            "GeeksforGeeks "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/ibps-po-syllabus/?ref=footer",
+        "title": "IBPS PO",
+        "description": [
+            "The IBPS PO Syllabus for the year 2024 comprises four main sections: Reasoning, Quantitative Aptitude, English Language, and General Awareness. This page provides comprehensive details about the IBPS PO Syllabus 2024, offering candidates complete information.",
+            "The Institute of Banking Personnel Selection (IBPS) has published the IBPS PO Syllabus 2022. The IBPS determines the syllabus for IBPS PO, which will most likely be the same for the forthcoming exam. Every year, millions of candidates apply for the job of PO in IBPS, making competition fierce and the IBPS PO exam difficult to pass. However, nothing is impossible if sufficiently prepared. To ignite their preparations, aspirants must grasp and become well acquainted with all data relevant to the IBPS PO syllabus 2024."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/sbi-po-syllabus-2024/?ref=footer",
+        "title": "SBI PO",
+        "description": [
+            " The syllabus of SBI PO prelims and the main exam has recently been updated by SBI. Every year, millions of candidates compete for the job of PO in SBI, making competition fierce and the SBI PO exam difficult to pass. However, nothing is difficult if you have a complete plan based on the SBI PO syllabus. This is one of the most respected bank jobs in the country, with all bank test candidates competing for it.",
+            "If you wish to succeed in the SBI PO exam, follow the recently updated SBI PO Syllabus and Exam Pattern. This blog will assist you in having an idea about SBI PO exam preparation on the right path."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/sbi-clerk-syllabus/?ref=footer",
+        "title": "SBI Clerk",
+        "description": [
+            "The article below provides information on the ",
+            " and the comprehensive Exam Pattern for SBI Clerk Prelims and Mains. You can review the "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/upsc-2024-study-materials-and-notes/?ref=footer",
+        "title": "UPSC",
+        "description": [
+            " Preparing for the UPSC exams requires access to the right resources and study materials. Fortunately, there are many free resources available that can help aspirants prepare effectively for these competitive exams. This article aims to provide a comprehensive guide to free UPSC study materials and notes.",
+            "We'll explore various subjects and resources available online that can be instrumental in your UPSC preparation journey."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/ugc-net-exam/?ref=footer",
+        "title": "UGC NET",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/ssc-cgl-syllabus/?ref=footer",
+        "title": "SSC CGL",
+        "description": [
+            "SSC has recently updated the SSC CGL syllabus 2024. With the announcement of SSC CGL Notification, SSC has also made some changes to ",
+            "2024. SSC CGL exam is a 3 stage examination process which is conducted every year by staff selection commission. Check this post to know more about SSC CGL latest syllabus(subject wise)."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/project-management/",
+        "title": "Project Management",
+        "description": [
+            "Project management is the organized approach to planning, executing, monitoring, and closing projects. This project management tutorial is best suited for students and aspiring project managers, providing a deep understanding of many different aspects of project management. ",
+            "This project management tutorial covers all the essential concepts, terminologies, and details, guiding those who are excited about project management. The project management tutorial covers key topics ranging from the fundamentals of project management, project life cycles, project management methodologies, Agile Framework, and project management processes to valuable insights from interviews, including common questions and experiences."
+        ]
+    },
+    {
+        "url": "https://write.geeksforgeeks.org/internship/?ref=footer",
+        "title": "Internships",
+        "description": []
+    },
+    {
+        "url": "https://write.geeksforgeeks.org/pick-article/?ref=footer",
+        "title": "Pick Topics to Write",
+        "description": []
+    },
+    {
+        "url": "https://write.geeksforgeeks.org/?ref=footer",
+        "title": "Write an Article",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/colleges/?ref=footer",
+        "title": "Colleges",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/companies/?ref=footer",
+        "title": "Companies",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/jee-advanced/?ref=footer",
+        "title": "JEE Advanced",
+        "description": [
+            " There are 7 IITs in India and each year one of them is responsible for conducting the IIT entrance examination. This year, it is expected that ",
+            ". "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/company-preparation/?ref=footer",
+        "title": "Company-Wise Preparation",
+        "description": [
+            "When diving into the tech job scene, it's valuable to know that each tech company has its own way of hiring. Whether they're into products, services, or analytics, they all have their unique styles. We've got details on over 90 companies, big and small, to help you gear up for your chance at landing the job. For each company, we've gathered almost everything you would require to ace your interview. With the help of this article, you can prepare for each company's process by looking at past trends and expected questions.",
+            "Take a look at our table with guides, topics, and interview experiences tailored for each company. It's like your personalized cheat sheet to get you ready for the big day."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/courses/aws-certified-cloud-practitioner-exam-certification-course",
+        "title": "AWS Solutions Architect Certification",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/puzzles/?ref=footer",
+        "title": "Puzzles",
+        "description": [
+            "Puzzles are commonly asked in exams and interviews to test logical and analytical thinking. Here is a list of most asked Puzzles divided into four categories as per examination pattern. ",
+            "Puzzle Title"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=footer",
+        "title": "Aptitude Preparation",
+        "description": [
+            "Aptitude questions can be challenging, but with the right preparation and practice, you can tackle them with ease. Our comprehensive guide to aptitude questions and answers covers all the essential topics of Aptitude, including ",
+            ", "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/free-resume-templates/?ref=footer",
+        "title": "Resume Templates",
+        "description": [
+            "Resumes are the first stepping stone to preparing for Interviews, either for technical or non-technical profiles. Based on the resume will be shortlisted for the profile you applied for. To create an interactive resume related to the applied profile is quite difficult for freshers. Because an interviewer refers to your resume and asks questions accordingly. That's why building a good resume ATS(",
+            ") friendly resume showcases your skills and expertise to the interviewer."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/company-wise-recruitment-process/?ref=footer",
+        "title": "Company-Wise Recruitment Process",
+        "description": [
+            "Job search is not less than a maze, with each company's recruitment process presenting its own set of challenges and obstacles cracking the code to each company's hiring practices can be difficult. From Atlassian to Zoho Corporation recruitment style don't worry, job seekers! this article covers it all. It contains the keys to unlock the inner workings of each organization's hiring journey and ends the confusion by presenting major companies' recruitment processes, thoughtfully categorised from A to Z. So, arm yourself with this roadmap, confidently start the first stage of your next career adventure, and let the journey in search of your dream job begin."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/mongodb-tutorial/?ref=footer",
+        "title": "MongoDB",
+        "description": [
+            "In today’s data-driven world, the ability to efficiently store and manage large amounts of data is crucial. MongoDB, a powerful ",
+            " database, has become a go-to choice for developers looking for flexibility, scalability, and performance. Unlike traditional relational databases, MongoDB uses a document-oriented data model, making it easier to handle complex data structures and scale out horizontally. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/postgresql-tutorial/?ref=footer",
+        "title": "PostgreSQL",
+        "description": [
+            "In this PostgreSQL tutorial you’ll learn the basic data types(Boolean, char, text, time, int etc.), Querying and Filtering techniques like ",
+            ", "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/pl-sql-tutorial/?ref=footer",
+        "title": "PL/SQL",
+        "description": [
+            "Explore this ",
+            " to effortlessly learn PL/SQL – It is perfect for beginners and experienced ones. Whether you're new to it or diving deep, this interactive guide simplifies database programming."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/figma-tutorial/?ref=footer",
+        "title": "Figma Tutorial",
+        "description": [
+            "Welcome to the Figma Tutorial - Complete Beginners to Advanced UI/UX Design Guide 2024! This guide will help you learn everything you need to know about ",
+            ", a powerful tool for creating stunning "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/microsoft-products-tutorials/?ref=footer",
+        "title": "Microsoft Products and Apps",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/editing-software-directory-image-video-design-music-documents/?ref=footer",
+        "title": "Editing Software Directory",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/best-hr-tools-software-for-workforce-management/?ref=footer",
+        "title": "HR Management Tools",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/accounting-software-directory-a-to-z-list/?ref=footer",
+        "title": "Accounting Software Directory",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/mysql-tutorial/?ref=footer",
+        "title": "MYSQL",
+        "description": [
+            "This ",
+            " is made for both "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/marketing-tools-directory-a-to-z-list/?ref=footer",
+        "title": "Marketing Tools Directory",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/ai-tools-directory/?ref=footer",
+        "title": "AI Tools Directory",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/english-grammar/?ref=footer",
+        "title": "English Grammar",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/chemistry/?ref=footer",
+        "title": "Chemistry",
+        "description": [
+            "Chemistry is the scientific study of matter, its properties, composition, and interactions. It is often referred to as the central science because it connects and bridges the physical sciences, such as physics and biology. Understanding chemistry is crucial for comprehending the world around us, from the air we breathe to the food we eat and the materials we use in everyday life.",
+            "Chemistry has many sub-disciplines such as analytical chemistry, physical chemistry, biochemistry, and more. Chemistry plays a crucial role in various industries, including pharmaceuticals, materials science, environmental science, and energy production, making it a cornerstone of modern science and technology"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/physics/?ref=footer",
+        "title": "Physics",
+        "description": [
+            "Physics is the branch of science that studies matter, energy, and the fundamental forces of nature through space and time. It is one of the most important subject in Science. Physics is one of the earliest fields of science. Whatever we see and feel nowadays is associated with Physics. It helps scientists make the modern world more comfortable.",
+            "Physics is branch in which we study about matter, energy, and the fundamental forces of nature through space and time. The word physics is derived from the Greek word "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/most-commonly-asked-system-design-interview-problems-questions/?ref=footer",
+        "title": "Interview Questions",
+        "description": [
+            "This System Design Interview Guide will provide the most commonly asked system design interview questions and equip you with the knowledge and techniques needed to design, build, and scale your robust applications, for professionals and newbies",
+            "Below are a list of most commonly asked interview problems/case studies/questions in System Design interviews:"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/social-science/?ref=footer",
+        "title": "Social Science",
+        "description": [
+            "Social Science is a broad field of study that covers a wide range of disciplines, including anthropology, economics, geography, history, political science, psychology, and sociology. Social Scientists study the social and cultural aspects of human life, including our relationships with each other, our institutions, and our environment.",
+            "Social Science is important because it helps us to understand the social experience. By studying social and cultural phenomena, we can learn more about ourselves, our relationships with society, and the world around us. Social Science research is used to inform a wide range of decisions, including public policy, business strategy, and social program development."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/biology/?ref=footer",
+        "title": "Biology",
+        "description": [
+            " Biology is the scientific study of life. It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field. Biology encompasses the study of all living organisms, from the smallest bacteria to the largest whales, and the interactions between these organisms and their environment. ",
+            "This field includes the"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/system-design-interview-bootcamp-guide/?ref=footer",
+        "title": "System Design Bootcamp",
+        "description": [
+            "We all know that ",
+            " is the core concept behind the design of any distributed system. Therefore every person in the tech industry needs to have at least a basic understanding of what goes behind designing a System. With this intent, we have brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for learning System Design."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/object-oriented-analysis-and-design/?ref=footer",
+        "title": "OOAD",
+        "description": [
+            "Object-Oriented Analysis and Design (OOAD) is a way to design software by thinking of everything as objects similar to real-life things. In OOAD, we first understand what the system needs to do, then identify key objects, and finally decide how these objects will work together. This approach helps make software easier to manage, reuse, and grow.",
+            "OOAD is based on the concepts of "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/maths/?ref=footer",
+        "title": "Mathematics",
+        "description": [
+            ", often referred to as “",
+            "” for short. It is the study of numbers, quantities, shapes, structures, patterns, and relationships. It is a fundamental subject that explores the logical reasoning and systematic approach to solving problems. Mathematics is used extensively in various fields such as science, engineering, economics, computer science, and many others."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/software-design-patterns/?ref=footer",
+        "title": "Design Patterns",
+        "description": [
+            "Software design patterns are important tools developers, providing proven solutions to common problems encountered during software development. This article will act as tutorial to help you understand the concept of design patterns. Developers can create more robust, maintainable, and scalable software systems by understanding and applying these patterns.",
+            "Reusable solutions for typical software design challenges are known as design patterns. Expert object-oriented software engineers use these best practices to write more structured, manageable, and scalable code. Design patterns provide a standard terminology and are specific to particular scenarios and problems. Design patterns are not finished code but templates or blueprints only."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/system-design-interview-guide/?ref=footer",
+        "title": "Interview Guide",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/?ref=footer",
+        "title": "UML Diagrams",
+        "description": [
+            "Unified Modeling Language (UML)  is a general-purpose modeling language. The main aim of UML is to define a standard way to visualize the way a system has been designed. It is quite similar to blueprints used in other fields of engineering. UML is not a programming language, it is rather a visual language. ",
+            "Unified Modeling Language (UML) is a standardized visual modeling language that is a versatile, flexible, and user-friendly method for visualizing a system’s design. Software system artifacts can be specified, visualized, built, and documented with the use of UML.   "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=footer",
+        "title": "Low Level Design",
+        "description": [
+            "Low-Level Design (LLD) is the detailed design process in the software development process that focuses on implementing individual components described in the High-Level Design. It provides a blueprint for how each component in the system will function and process and it also includes UML Diagrams, data structures, and algorithms. The input to LLD is HLD i.e. LLD translates the HLD into smaller and more specific details.",
+            "LLD, or Low-Level Design, is a phase in the software development process where detailed system components and their interactions are specified, along with their implementation. It involves converting the high-level design into a more detailed blueprint, addressing specific algorithms, data structures, and interfaces. LLD serves as a guide for developers during coding, which ensures the accurate and efficient implementation of the system’s functionality."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=footer",
+        "title": "High Level Design",
+        "description": [
+            "In Developing scalable applications, proper planning, and organization play a significant role. High-level design plays an important role in this process by serving as the blueprint of the system’s architecture. It provides a comprehensive view of how components interact and function together which will further help for detailed implementation.",
+            "Understanding high-level design is very crucial for developers, architects, and project managers because it allows them to make sure that all stakeholders are aligned with the project objectives. High-level design is also known as macro-level design."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/devops-roadmap/?ref=footer",
+        "title": "DevOps Roadmap",
+        "description": [
+            " is considered a set of practices that combines the abilities of ",
+            " i.e "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=footer",
+        "title": "GCP",
+        "description": [
+            " is a set of cloud computing services provided by Google that allow you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google’s environment. It was announced as the leading cloud platform in Gartner’s IaaS Magic Quadrant in 2018. ",
+            "Likewise, it provides tools for developers to build and deploy applications securely and reliably, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or a dedicated network connection. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=footer",
+        "title": "Kubernetes",
+        "description": [
+            " In this Kubernetes Tutorial you’ll learn all the basics to advanced concepts like ",
+            " , "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/docker-tutorial/?ref=footer",
+        "title": "Docker",
+        "description": [
+            "In this Docker Tutorial, you’ll learn all the basic to advanced concepts like Docker installation, Docker container, Docker commands, Docker run, Docker images, Docker compose, Docker engine, Docker networking, etc. ",
+            "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/aws-tutorial/?ref=footer",
+        "title": "AWS",
+        "description": [
+            "This ",
+            " or Amazon Web Service tutorial, is designed for beginners and professionals to "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/microsoft-azure/?ref=footer",
+        "title": "Azure",
+        "description": [
+            "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services, such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described to better understand readers.",
+            "Microsoft Azure tutorial is designed for beginners to learn about Microsoft Azure and its various cloud computing services. It covers important concepts and provides a comprehensive understanding of Azure’s services. The tutorial includes a variety of topics that delve into the uses and services of Azure in depth."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/engineering-mathematics-tutorials/?ref=footer",
+        "title": "Engineering Maths",
+        "description": [
+            "Engineering mathematics is a vital component of the engineering discipline, offering the analytical tools and techniques necessary for solving complex problems across various fields. Whether you're designing a bridge, optimizing a manufacturing process, or developing algorithms for computer systems, a solid understanding of mathematical principles is crucial.",
+            ">> Quiz on Set Theory and Algebra"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/git-tutorial/?ref=footer",
+        "title": "Git",
+        "description": [
+            " is a powerful version control system widely used for tracking changes in source code during software development. Created by Linus Torvalds in 2005, Git has become an essential tool for developers worldwide. Understanding Git can significantly enhance your coding efficiency and collaboration. ",
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/?ref=footer",
+        "title": "Digital Logic Design",
+        "description": [
+            "Digital Electronics and Logic Design are key concepts in both electronics and computer science. Digital systems are at the core of everything from basic devices like calculators to advanced computing systems. ",
+            "In this "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/software-engineering/?ref=footer",
+        "title": "Software Engineering",
+        "description": [
+            " Software Engineering is a subdomain of Engineering in which you learn to develop, design, test, and maintain software using a systematic and structured approach. Software is a collection of programs. And that programs are developed by software engineers. The code of a program is written in any of various programming languages like C++, Java, Python, JavaScript, Ruby, C# etc.",
+            " In this Software Engineering Tutorial, you will learn all the basic to advanced concepts, like Software Engineering Models and Architecture, Software development life cycle, software project management, software metrics, software requirements, etc. This software engineering tutorial is best suited for students and aspiring software engineers, providing a deep understanding of many different aspects of software engineering. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/dbms/?ref=footer",
+        "title": "Database Management System",
+        "description": [
+            "is a software used to manage data from a database. ",
+            "In this "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/computer-network-tutorials/?ref=footer",
+        "title": "Computer Network",
+        "description": [
+            " These networks can range from simple setups, like connecting two devices in your home, to massive global systems, like the Internet. Below are the main components of a computer network.",
+            "Computer networks are an important part of our daily lives. They allow devices like computers, smartphones, and tablets to connect and communicate with each other. Whether you’re browsing the internet, sending an email, or streaming a video, it all happens because of computer networks."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/operating-systems/?ref=footer",
+        "title": "Operating Systems",
+        "description": [
+            " An Operating System(OS) is a software that manages and handles hardware and software resources of a computing device. ",
+            " >> Quiz on CPU Scheduling "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-interview-questions/?ref=footer",
+        "title": "Python Interview Question",
+        "description": [
+            "Python is the most used language in top companies such as Intel, IBM, NASA, Pixar, Netflix, Facebook, JP Morgan Chase, Spotify and many more because of its robust performance and powerful libraries. To get into these companies and organizations as a Python developer, we need to master some important",
+            "to crack their Python Online Assessment Round and Python Interview Round. We have prepared a list of the "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/opencv-python-tutorial/?ref=footer",
+        "title": "OpenCV Tutorial",
+        "description": [
+            "OpenCV, short for Open Source Computer Vision Library, is an open-source computer vision and machine learning software library. Originally developed by Intel, it is now maintained by a community of developers under the OpenCV Foundation.",
+            "is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human. When it is integrated with various libraries, such as "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-web-scraping-tutorial/?ref=footer",
+        "title": "Web Scraping",
+        "description": [
+            "In today’s digital world, data is the key to unlocking valuable insights, and much of this data is available on the web. But how do you gather large amounts of data from websites efficiently? That’s where ",
+            " comes in.Web scraping, the process of extracting data from websites, has emerged as a powerful technique to gather information from the vast expanse of the internet. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=footer",
+        "title": "Python Tkinter",
+        "description": [
+            " is the most commonly used library for developing GUI (Graphical User Interface) in Python. It is a standard Python interface to the Tk GUI toolkit shipped with Python. As Tk and Tkinter are available on most of the Unix platforms as well as on the Windows system, developing GUI applications with Tkinter becomes the fastest and easiest.",
+            "In this guide, we’ll walk you through the essentials of Tkinter, from installation to creating your first GUI application. We’ll explore the concept of widgets, learn how to create basic GUI elements, and even dive into more advanced topics like destroying windows and gaining an overview of Tkinter in Python."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/gate-cs-notes-gq/?ref=footer",
+        "title": "GATE CS Notes",
+        "description": [
+            "The Graduate Aptitude Test in Engineering (GATE) is a national-level exam in India, jointly conducted by the Indian Institute of Science (IISc) and seven Indian Institutes of Technology (IITs) on a rotational basis. GATE 2026 is scheduled to be organized by IIT Guwahati. ",
+            "This computer-based exam assesses the technical aptitude of engineering graduates. A good GATE score opens doors to postgraduate programs like Master of Technology (MTech) or Master of Engineering (ME) at prestigious institutions, as well as job opportunities in Public Sector Undertakings (PSUs)."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=footer",
+        "title": "Python Projects",
+        "description": [
+            "Python is one of the most popular programming languages due to its simplicity, versatility, and supportive community. Whether you’re a beginner eager to learn the basics or an experienced programmer looking to challenge your skills, there are countless ",
+            " to help you grow."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/django-tutorial/?ref=footer",
+        "title": "Django Tutorial",
+        "description": [
+            "Django, built with Python, is designed to help developers build secure, scalable, and feature-rich web applications quickly and efficiently. Whether you’re a beginner looking to create your first dynamic website or an experienced developer aiming to enhance your skills, this tutorial will guide you through Django’s core concepts. ",
+            "This also tutorial provides you with "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-programming-examples/?ref=footer",
+        "title": "Python Programming Examples",
+        "description": [
+            "Practice with Python program examples is always a good choice to scale up your logical understanding and programming skills and this article will provide you with the best sets of Python code examples.",
+            "The below Python section contains a wide collection of Python programming examples. These Python code examples cover a wide range of basic concepts in the "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tailwind-css/?ref=footer",
+        "title": "Tailwind CSS",
+        "description": [
+            "Tailwind CSS is a utility-first CSS framework that makes it easy to build custom designs without writing custom CSS. It allows you to apply individual utility classes directly in your HTML, which helps create fully customized layouts with minimal effort.",
+            "To begin with Tailwind CSS, you need to install it using one of the methods. The easiest way is by using the CDN for quick setup."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/bootstrap/?ref=footer",
+        "title": "Bootstrap",
+        "description": [
+            "Bootstrap is a popular front-end framework for building responsive and mobile-first websites. It provides pre-designed ",
+            "CSS"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/nodejs/?ref=footer",
+        "title": "NodeJs",
+        "description": [
+            "Node.js is a powerful, open-source, and cross-platform JavaScript runtime environment built on ",
+            "Chrome's V8 engine"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/nextjs/?ref=footer",
+        "title": "NextJS",
+        "description": [
+            " is a popular React framework that extends React’s capabilities by providing powerful tools for server-side rendering, static site generation, and full-stack development. It is widely used to build SEO-friendly, high-performance web applications easily.",
+            "Let us now take a look at our first code example."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/typescript/?ref=footer",
+        "title": "TypeScript",
+        "description": [
+            "TypeScript is a superset of JavaScript that adds extra features like static typing, interfaces, enums, and more. Essentially, TypeScript is JavaScript with additional syntax for defining types, making it a powerful tool for building scalable and maintainable applications.",
+            " TypeScript is now up to "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/learn-reactjs/?ref=footer",
+        "title": "ReactJS",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/javascript/?ref=footer",
+        "title": "JavaScript",
+        "description": [
+            "JavaScript is a ",
+            "used to create dynamic content for websites. It is a "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/deep-learning-tutorial/?ref=footer",
+        "title": "Deep Learning",
+        "description": [
+            "Deep Learning tutorial covers the basics and more advanced topics, making it perfect for beginners and those with experience. Whether you’re just starting or looking to expand your knowledge, this guide makes it easy to learn about the different technologies of Deep Learning.",
+            " are fundamentals of deep learning inspired by human brain. It consists of layers of interconnected nodes, or “neurons,” each designed to perform specific calculations. These nodes receive input data, process it through various mathematical functions, and pass the output to subsequent layers."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=footer",
+        "title": "NLP",
+        "description": [
+            "Natural Language Processing (NLP) is the branch of Artificial Intelligence (AI) that gives the ability to machine understand and process human languages. Human languages can be in the form of text or audio format.",
+            "The applications of Natural Language Processing are as follows:"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/numpy-tutorial/?ref=footer",
+        "title": "NumPy",
+        "description": [
+            "NumPy is a powerful library ",
+            " in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. NumPy’s array objects are more memory-efficient and perform better than Python lists, which is essential for tasks in scientific computing, data analysis, and machine learning. This "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/pandas-tutorial/?ref=footer",
+        "title": "Pandas",
+        "description": [
+            "Pandas, ",
+            "is an open-source software library designed for the "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/python-data-visualization-tutorial/?ref=footer",
+        "title": "Data Visualisation",
+        "description": [
+            "Data visualization is a crucial aspect of data analysis, helping to transform analyzed data into meaningful insights through graphical representations. This comprehensive tutorial will guide you through the fundamentals of data visualization using Python. We’ll explore various libraries, including ",
+            " Each library offers unique features and advantages, catering to different visualization needs and preferences. "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/machine-learning-mathematics/?ref=footer",
+        "title": "ML Maths",
+        "description": [
+            "Mathematics is the foundation of machine learning. Math concepts plays a crucial role in understanding how models learn from data and optimizing their performance. ",
+            "Before diving into machine learning algorithms, it’s important to familiarize yourself with foundational topics, like "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/machine-learning/?ref=footer",
+        "title": "Machine Learning",
+        "description": [
+            " is a subset of Artificial Intelligence (AI) that enables computers to learn from data and make predictions without being explicitly programmed. If you're new to this field, this tutorial will provide a comprehensive understanding of machine learning, its types, algorithms, tools, and practical applications. ",
+            "Machine learning"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/data-science-for-beginners/?ref=footer",
+        "title": "Data Science For Beginner",
+        "description": [
+            "Data Science is an interdisciplinary field that combines powerful techniques from statistics, artificial intelligence, machine learning, and data visualization to extract meaningful insights from vast amounts of data. It is the technology behind modern decision-making, empowering industries to optimize operations, predict trends, and drive innovation.",
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=footer",
+        "title": "Competitive Programming",
+        "description": [
+            " is a mental sport that enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers.",
+            "Get ready to level up your programming skills with this "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=footer",
+        "title": "DSA Interview Questions",
+        "description": [
+            " has been one of the most popular go-to topics for any interview, be it ",
+            " for "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/?ref=footer",
+        "title": "DSA Roadmap",
+        "description": [
+            "Mastering DSA enables developers to write optimized code that performs well even with large datasets. The very first step in the journey is the selection of a complete roadmap. This guide provides a structured path, starting from basic concepts to advanced topics. It offers practical steps, resources, and tips for improving coding efficiency to learn data structure and algorithms. ",
+            "The first and foremost thing is dividing the total procedure into little pieces which need to be done sequentially. The complete process to learn DSA from scratch can be broken into 5 parts:"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/basic-coding-problems-in-dsa-for-beginners/?ref=footer",
+        "title": "Basic DSA Problems",
+        "description": [
+            "For any beginner looking to strengthen their skills in ",
+            ", we have brought to you a collection of "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/css-tutorial/",
+        "title": "CSS",
+        "description": [
+            "CSS stands for ",
+            " It is a stylesheet language used to style and enhance website presentation."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/html-tutorial/",
+        "title": "HTML",
+        "description": [
+            " stands for ",
+            ". It is the standard language used to create and structure content on the web. It tells the web browser how to display text, links, images, and other forms of multimedia on a webpage. HTML sets up the basic structure of a website, and then CSS and JavaScript add style and interactivity to make it look and function better."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=footer",
+        "title": "Algorithms",
+        "description": [
+            "is a step-by-step procedure for solving a problem or accomplishing a task. In the context of data structures and algorithms, it is a set of well-defined instructions for performing a specific computational task. Algorithms are fundamental to computer science and play a very important role in designing efficient solutions for various problems. Understanding algorithms is essential for anyone interested in mastering data structures and algorithms.",
+            "An "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/complete-guide-to-dsa-for-beginners/?ref=footer",
+        "title": "DSA for Beginners",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/campus-training-program/?ref=footer",
+        "title": "Placement Training Program",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/gfg-corporate-solution/?ref=footer",
+        "title": "GfG Corporate Solution",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/about/contact-us/?ref=footer",
+        "title": "Contact Us",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/data-science-with-python-tutorial/",
+        "title": "Data Science With Python",
+        "description": [
+            "Data science enables organizations to make informed decisions, solve problems, and understand human behavior. As the volume of data grows, so does the demand for skilled data scientists. The most common languages used for data science are Python and R, with Python being particularly popular as: ",
+            "The "
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/press-release/?ref=footer",
+        "title": "In Media",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/legal/privacy-policy/?ref=footer",
+        "title": "Privacy Policy",
+        "description": [
+            "Welcome to ",
+            "."
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/legal/?ref=footer",
+        "title": "Legal",
+        "description": [
+            "COMMUNITY",
+            "COURSES"
+        ]
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/events/rec/gfg-weekly-coding-contest",
+        "title": "GfG Weekly Contest",
+        "description": []
+    },
+    {
+        "url": "https://geeksforgeeks.zohorecruit.in/careers?ref=footer",
+        "title": "Careers",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/events/rec/gfg-hackathon?ref=footer",
+        "title": "Hack-A-Thon",
+        "description": []
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/events/rec/job-a-thon?ref=footer",
+        "title": "Job-A-Thon Hiring Challenge",
+        "description": []
+    }
+]

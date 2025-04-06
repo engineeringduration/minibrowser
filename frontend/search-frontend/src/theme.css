@@ -1,0 +1,103 @@
+/* ========================
+   Theme Variables
+======================== */
+
+/* Light/default theme (or system default if not overridden) */
+/* theme.css */
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --box-color: #eef3ff;
+    --tile-bg-color: #ffffff;
+    --tile-hover-color: #f0f0f0;
+    --link-color: #1a0dab;
+    --input-border: #ccc;
+    --section-border: #ddd; /* light border for AI section */
+  }
+  
+  [data-theme='dark'] {
+    --bg-color: #1e1e1e;
+    --text-color: #e0e0e0;
+    --box-color: #2c2c38;
+    --tile-bg-color: #2c2c2c;
+    --tile-hover-color: #3a3a3a;
+    --link-color: #8ab4f8;
+    --input-border: #555;
+    --section-border: #444; /* darker border for dark mode */
+  }
+  
+  
+  
+  /* Light theme (explicit override) */
+  [data-theme="light"] {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --tile-bg: #ffffff;
+    --tile-hover: #f9f9f9;
+    --input-border: #ccc;
+    --link-color: #1a0dab;
+  }
+  
+  /* ========================
+     Global Themed Elements
+  ======================== */
+  
+  body,
+  .search-section {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
+  .search-bar input {
+    border: 1px solid var(--input-border);
+    background-color: var(--tile-bg);
+    color: var(--text-color);
+  }
+  
+  .search-bar input:focus {
+    border-color: #0073e6;
+  }
+  
+  .search-bar button {
+    background-color: #0073e6;
+    color: white;
+  }
+  
+  .result-tile {
+    background-color: var(--tile-bg);
+    color: var(--text-color);
+  }
+  
+  .result-tile:hover {
+    background-color: var(--tile-hover);
+  }
+  
+  .result-title {
+    color: var(--link-color);
+  }
+  
+  /* Theme buttons */
+  .search-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .theme-buttons button {
+    margin-left: 8px;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #0073e6;
+    color: white;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .theme-buttons button:hover {
+    background-color: #005bb5;
+  }
+
+  

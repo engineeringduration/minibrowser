@@ -1,0 +1,36 @@
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+
+/* Left Section: Search */
+.search-section {
+  flex: 2 1 100%;
+  min-width: 300px;
+  order: 2; /* Default order for mobile: comes after AI */
+}
+
+/* Right Section: AI */
+.ai-section {
+  flex: 1 1 100%;
+  min-width: 300px;
+  order: 1; /* AI section appears first on mobile */
+}
+
+/* Medium and above: horizontal layout */
+@media (min-width: 768px) {
+  .search-section {
+    flex: 2 1 60%;
+    order: 1; /* Left */
+  }
+
+  .ai-section {
+    flex: 1 1 35%;
+    order: 2; /* Right */
+  }
+}

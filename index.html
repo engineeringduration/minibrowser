@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mini Browser</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    #toolbar {
+      background: #f0f0f0;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+    }
+    #address-bar {
+      flex: 1;
+      padding: 8px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    #go-button {
+      padding: 8px 16px;
+      margin-left: 10px;
+      font-size: 16px;
+      border: none;
+      background: #007BFF;
+      color: white;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    #go-button:hover {
+      background: #0056b3;
+    }
+    #browser-frame {
+      width: 100%;
+      height: calc(100vh - 60px); /* Adjust height considering toolbar */
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="toolbar">
+    <input type="text" id="address-bar" placeholder="Enter URL here" />
+    <button id="go-button">Go</button>
+  </div>
+  <iframe id="browser-frame" src="http://localhost:3000/proxy?url=https://example.com"></iframe>
+
+
+  <script>
+    const addressBar = document.getElementById("address-bar");
+    const iframe = document.getElementById("browser-frame");
+
+    function loadURL() {
+      let url = addressBar.value.trim();
+      if (!url.startsWith("http://") && !url.startsWith("https://")) {
+        url = "http://" + url;
+      }
+      iframe.src = url;
+    }
+
+    // Update address bar when the iframe loads a new page
+    iframe.onload = function() {
+      try {
+        addressBar.value = iframe.contentWindow.location.href;
+      } catch (error) {
+        console.warn("Cannot access iframe URL due to cross-origin restrictions.");
+      }
+    };
+
+    document.getElementById("go-button").addEventListener("click", loadURL);
+    addressBar.addEventListener("keypress", function(e) {
+      if (e.key === "Enter") {
+        loadURL();
+      }
+    });
+  </script>
+</body>
+</html>

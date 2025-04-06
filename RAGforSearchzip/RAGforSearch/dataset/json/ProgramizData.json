@@ -1,0 +1,184 @@
+[
+    {
+        "url": "https://www.programiz.com/python-programming",
+        "title": "Learn Python - Python Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Python",
+            "Is Python for you?",
+            "Best Way to Learn Python",
+            "How to Run Python?",
+            "Learn Python",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/cpp-programming",
+        "title": "Learn C++ - C++ Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to C++",
+            "Is C++ for you?",
+            "Best Way to Learn C++",
+            "How to Run C++?",
+            "Learn C++",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/golang",
+        "title": "Learn Go - Go Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Go",
+            "Is Go for You? (Hint: If you enjoy solving puzzles, probably yes!)",
+            "Best Way to Learn Go (Your way!)",
+            "How to Run a Go Program?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/python-programming/pandas",
+        "title": "Learn Pandas: Pandas Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Pandas",
+            "Is Pandas for You?",
+            "Best Way to Learn Pandas (Your way!)",
+            "How to Run a Pandas Program?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/csharp-programming",
+        "title": "Learn C#: C# Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to NumPy",
+            "Is NumPy for you?",
+            "Best Ways to Learn NumPy",
+            "How to Run NumPy?",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/dsa",
+        "title": "Learn Data Structure & Algorithms",
+        "description": [
+            "Beginner's Guide to DSA",
+            "Is DSA for You? (Hint: If you like breaking down problems and finding\r\n      smart solutions, definitely yes!)",
+            "Best Way to Learn DSA (Your way!)",
+            "How to Practice DSA?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/c-programming",
+        "title": "Learn C - C Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to C",
+            "Is C for you?",
+            "Best Way to Learn C",
+            "How to Run C?",
+            "Learn C",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/kotlin-programming",
+        "title": "Learn Kotlin: Kotlin Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Kotlin",
+            "Is Kotlin for you?",
+            "Best Ways to Learn Kotlin",
+            "How to Run Kotlin?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/r",
+        "title": "Learn R - R Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to R",
+            "Is R for You? (Hint: If you enjoy solving puzzles, probably yes!)",
+            "Best Way to Learn R (Your way!)",
+            "How to Run an R Program?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/python-programming/numpy",
+        "title": "Learn NumPy: NumPy Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to NumPy",
+            "Is NumPy for you?",
+            "Best Ways to Learn NumPy",
+            "How to Run NumPy?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/javascript",
+        "title": "Learn Javascript: JavaScript Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to JavaScript",
+            "Is JavaScript for You?",
+            "Best Way to Learn JavaScript",
+            "How to Run JavaScript?",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/css",
+        "title": "Learn CSS - CSS Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to CSS",
+            "Is CSS for You? (Hint: If you want to design beautiful, responsive websites, definitely yes!)",
+            "Best Way to Learn CSS (Your way!)",
+            "How to Start Styling with CSS?",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/html",
+        "title": "Learn HTML - HTML Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to HTML",
+            "Is HTML for You? (Hint: If you want to build websites and understand how the web works, absolutely yes!)",
+            "Best Way to Learn HTML (Your way!)",
+            "How to Start Coding in HTML?",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/sql",
+        "title": "Learn SQL - SQL Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to SQL",
+            "Is SQL for you?",
+            "Best Way to Learn SQL",
+            "How to Run SQL?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/rust",
+        "title": "Learn Rust - Rust Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Rust",
+            "Is Rust for You? (Hint: If you enjoy solving puzzles, probably yes!)",
+            "Best Way to Learn Rust (Your way!)",
+            "How to Run a Rust Program?"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/java-programming",
+        "title": "Learn Java: Java Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Java",
+            "Is Java for you?",
+            "Best Way to Learn Java",
+            "How to Run Java?",
+            "Learn Java",
+            "Sololearn"
+        ]
+    },
+    {
+        "url": "https://www.programiz.com/swift-programming",
+        "title": "Learn Swift: Swift Tutorial for Beginners",
+        "description": [
+            "Beginner's Guide to Swift",
+            "Is Swift for You? (Hint: If you enjoy building sleek, high-performance apps, probably yes!)",
+            "Best Way to Learn Swift (Your way!)",
+            "How to Run Swift?"
+        ]
+    }
+]

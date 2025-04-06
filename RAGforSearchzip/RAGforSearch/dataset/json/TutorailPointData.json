@@ -1,0 +1,212 @@
+[
+    {
+        "url": "https://www.tutorialspoint.com/sql/index.htm",
+        "title": "SQL Tutorial",
+        "description": [
+            "Our "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/excel/index.htm",
+        "title": "Excel Tutorial",
+        "description": [
+            "Microsoft Excel is a commercial spreadsheet application, written and distributed by Microsoft for Microsoft Windows and Mac OS X. At the time of writing this tutorial the Microsoft excel version was 2010 for Microsoft Windows and 2011 for Mac OS X."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/dbms/index.htm",
+        "title": "DBMS Tutorial",
+        "description": [
+            " or "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/data_communication_computer_network/index.htm",
+        "title": "Computer Network Tutorial",
+        "description": [
+            "Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/data_structures_algorithms/index.htm",
+        "title": "Data Structure and Algorithms Tutorial",
+        "description": [
+            "Data structures and algorithms (DSA) are two important aspects of any programming language. Every programming language has its own data structures and different types of algorithms to handle these data structures."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/operating_system/index.htm",
+        "title": "Operating System Tutorial",
+        "description": [
+            "An Operating System (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. When you start using a Computer System then it's the Operating System (OS) which acts as an interface between you and the computer hardware. The operating system is really a low level "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/compiler_design/index.htm",
+        "title": "Compiler Design Tutorial",
+        "description": [
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/computer_fundamentals/index.htm",
+        "title": "Computer Fundamentals Tutorial",
+        "description": [
+            "Computer is an advanced electronic device that takes raw data as an input from the user and processes it under the control of a set of instructions (called a program), produces a result (output), and saves it for future use. This tutorial explains the foundational concepts of computer hardware, software, operating systems, peripherals, etc., along with how to get the most value and impact from computer technology."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/react_native/index.htm",
+        "title": "React Native Tutorial",
+        "description": [
+            "React Native is a JavaScript framework for building native mobile apps. It uses the React framework and offers large amount of inbuilt components and APIs."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/blockchain/index.htm",
+        "title": "Blockchain Tutorial",
+        "description": [
+            "A blockchain is a growing list of records, called blocks, which are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. Blockchain has been in a lot of buzz these days. And that is mainly because it is backbone of the very famous cryptocurrency in the world - the Bitcoin. Many Governments and leading Banks have decided to bring many of their conventional transactions based on Blockchain concept. The applications and potential of this framework is huge and is considered to be changing the way transactions are made in various domains."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/machine_learning/index.htm",
+        "title": "Machine Learning",
+        "description": [
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/r/index.htm",
+        "title": "R Programming",
+        "description": [
+            "R is a programming language and software environment for statistical analysis, graphics representation and reporting. R was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team. R is freely available under the GNU General Public License, and pre-compiled binary versions are provided for various operating systems like Linux, Windows and Mac. This programming language was named "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/bootstrap/index.htm",
+        "title": "Bootstrap Tutorial",
+        "description": [
+            "Twitter Bootstrap is the most popular front end framework in the recent time. It is sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development. It uses HTML, CSS and Javascript. This tutorial will teach you the basics of Bootstrap 5 Framework using which you can create web projects with ease. The tutorial is divided into sections such as Bootstrap Basic Structure, Bootstrap Layout, Bootstrap Content, Bootstrap Components, Bootstrap Forms, Bootstrap Grids, Bootstrap Helpers, Bootstrap Utilities and Bootstrap Examples. Each of these sections contain related topics with simple and useful examples."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/swift/index.htm",
+        "title": "Swift Tutorial",
+        "description": [
+            "Swift is a new programming language developed by Apple Inc. for iOS and OS X development. It adopts the best of C and Objective-C, without the constraints of C compatibility. It uses the same runtime as the existing Obj-C system on Mac OS and iOS, which enables Swift programs to run on many existing iOS and OS X platforms."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/plsql/index.htm",
+        "title": "PL/SQL Tutorial",
+        "description": [
+            "PL/SQL, which stands for Procedural Language extensions to the "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/mongodb/index.htm",
+        "title": "MongoDB Tutorial",
+        "description": [
+            "The "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/mysql/index.htm",
+        "title": "MySQL",
+        "description": [
+            "MySQL is the most popular and a free Open Source Relational Database Management System (RDBMS). An RDBMS system stores the data in the form of tables that might be related to each other. MySQL uses Structured Query Language (SQL) to store, manage and retrieve data, and control the accessibility to the data. It is one of the best RDBMS being used for developing web-based software applications."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/nodejs/index.htm",
+        "title": "Node.js Tutorial",
+        "description": [
+            "Node.js is a powerful JavaScript runtime environment, built on Google Chrome's V8 JavaScript Engine. Node.js is open-source and cross platform."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/tailwind_css/index.htm",
+        "title": "Tailwind CSS Tutorial",
+        "description": [
+            " is a utility-first CSS framework for designing websites by using its utility-first pre-defined classes. It is a low-level CSS framework that is easy to learn and maintain in your projects. Tailwind CSS has many built-in features and classes that can be directly used on HTML documents."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/csharp/index.htm",
+        "title": "C# Tutorial",
+        "description": [
+            " (pronounced \"C-Sharp\")  is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg.  It is widely used for the following:"
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/scala/index.htm",
+        "title": "Scala Tutorial",
+        "description": [
+            "Our "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/php/index.htm",
+        "title": "PHP Tutorial",
+        "description": [
+            "PHP is an open-source general purpose scripting language, widely used for "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/cplusplus/index.htm",
+        "title": "C++ Tutorial",
+        "description": [
+            "This C++ tutorial has been written by experienced C++ programmers, which helps beginners to advanced programmers while learning C++ in simple and easy steps. This tutorial uses a simple and practical approach to describe the concepts of "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/cprogramming/index.htm",
+        "title": "C Tutorial",
+        "description": [
+            " is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/angular/index.htm",
+        "title": "Angular Tutorial",
+        "description": [
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/java/index.htm",
+        "title": "Java Tutorial",
+        "description": [
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/python/index.htm",
+        "title": "Python Tutorial",
+        "description": [
+            "Today, Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more."
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/javascript/index.htm",
+        "title": "JavaScript Tutorial",
+        "description": [
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/css/index.htm",
+        "title": "CSS Tutorial",
+        "description": [
+            "This "
+        ]
+    },
+    {
+        "url": "https://www.tutorialspoint.com/html/index.htm",
+        "title": "HTML Tutorial",
+        "description": [
+            " is a standard markup language, which stands for "
+        ]
+    }
+]

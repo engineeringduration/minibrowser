@@ -1,0 +1,138 @@
+/* Main container for the search section (left side) */
+.search-section {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* Search bar container */
+.search-bar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+/* Input field */
+.search-bar input {
+  flex: 1;
+  padding: 10px 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: border 0.2s ease;
+}
+
+.search-bar input:focus {
+  border-color: #0073e6;
+}
+
+/* Search button */
+.search-bar button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0073e6;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.search-bar button:hover {
+  background-color: #005bb5;
+}
+
+/* Search results container */
+.search-results {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* Each result tile */
+.result-tile {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease, background-color 0.2s ease;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.result-tile:hover {
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Title of each result */
+.result-title {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: #1a0dab;
+}
+
+/* Description under the title */
+.result-desc {
+  margin: 0;
+  color: #4d5156;
+  font-size: 15px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* limit to 3 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* Search results container */
+.search-results {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* Each result tile */
+.result-tile {
+  width: 100%;
+  background: var(--tile-bg-color, #ffffff);
+  color: var(--text-color);
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.result-tile:hover {
+  background-color: var(--tile-hover-color, #f9f9f9);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Title of each result */
+.result-title {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: var(--link-color, #1a0dab);
+}
+
+/* Description under the title */
+.result-desc {
+  margin: 0;
+  color: var(--text-color);
+  font-size: 15px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
