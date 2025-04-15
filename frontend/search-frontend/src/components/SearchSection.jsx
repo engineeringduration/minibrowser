@@ -1,26 +1,34 @@
-import { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import './SearchSection.css';
 
-export function SearchSection() {
-  const [query, setQuery] = useState('');
+export function SearchSection({ onSearch, query: parentQuery }) {
+  const [query, setQuery] = useState(parentQuery || '');
   const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  const handleSearch = async () => {
-    if (!query.trim()) return;
+  useEffect(() => {
+    setQuery(parentQuery || '');
+    if (parentQuery) {
+      fetchSearch(parentQuery);
+    }
+  }, [parentQuery]);
 
+  const fetchSearch = async (q) => {
     setLoading(true);
-
     try {
-      const res = await fetch(`http://127.0.0.1:5000/search?query=${query}`);
+      const res = await fetch(`http://localhost:5000/search_links?query=${encodeURIComponent(q)}`);
       const data = await res.json();
-
       setResults(data.results?.slice(0, 5) || []);
     } catch (err) {
       console.error('Search failed:', err);
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleSearch = () => {
+    if (!query.trim()) return;
+    onSearch(query);
   };
 
   return (
@@ -43,8 +51,7 @@ export function SearchSection() {
           <div
             key={index}
             className="result-tile"
-            onClick={() => window.location.href = item.url}
-
+            onClick={() =>  window.location.href = item.url}
           >
             <h3 className="result-title">{item.title}</h3>
             <p className="result-desc">{item.description}</p>

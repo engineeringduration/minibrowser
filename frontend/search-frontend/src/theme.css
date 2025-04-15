@@ -4,39 +4,33 @@
 
 /* Light/default theme (or system default if not overridden) */
 /* theme.css */
+/* 🌑 Default Theme: DARK (applied by default via :root) */
 :root {
-    --bg-color: #ffffff;
-    --text-color: #000000;
-    --box-color: #eef3ff;
-    --tile-bg-color: #ffffff;
-    --tile-hover-color: #f0f0f0;
-    --link-color: #1a0dab;
-    --input-border: #ccc;
-    --section-border: #ddd; /* light border for AI section */
-  }
+  --bg-color: #1e1e1e;
+  --text-color: #e0e0e0;
+  --box-color: #2c2c38;
+  --tile-bg-color: #2c2c2c;
+  --tile-hover-color: #3a3a3a;
+  --link-color: #8ab4f8;
+  --input-border: #555;
+  --section-border: #444;
+  --res-tile:#444;
+}
+
+/* 🌤️ Optional Light Theme */
+[data-theme='light'] {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --box-color: #f5f5f5;
+  --tile-bg-color: #ffffff;
+  --tile-hover-color: #f0f0f0;
   
-  [data-theme='dark'] {
-    --bg-color: #1e1e1e;
-    --text-color: #e0e0e0;
-    --box-color: #2c2c38;
-    --tile-bg-color: #2c2c2c;
-    --tile-hover-color: #3a3a3a;
-    --link-color: #8ab4f8;
-    --input-border: #555;
-    --section-border: #444; /* darker border for dark mode */
-  }
-  
-  
-  
-  /* Light theme (explicit override) */
-  [data-theme="light"] {
-    --bg-color: #ffffff;
-    --text-color: #000000;
-    --tile-bg: #ffffff;
-    --tile-hover: #f9f9f9;
-    --input-border: #ccc;
-    --link-color: #1a0dab;
-  }
+  --link-color: #1a0dab;
+  --input-border: #ccc;
+  --section-border: #ddd;
+  --res-tile:#ddd;
+}
+
   
   /* ========================
      Global Themed Elements
@@ -66,6 +60,7 @@
   .result-tile {
     background-color: var(--tile-bg);
     color: var(--text-color);
+    border: var(--res-tile);
   }
   
   .result-tile:hover {
@@ -99,5 +94,16 @@
   .theme-buttons button:hover {
     background-color: #005bb5;
   }
-
+  .result-tile {
+    background-color: var(--tile-bg-color);
+    color: var(--text-color);
+    border: 1px solid var(--res-tile);
+  }
+  
+  .search-bar input {
+    border: 1px solid var(--input-border);
+    background-color: var(--tile-bg-color);
+    color: var(--text-color);
+  }
+  
   
