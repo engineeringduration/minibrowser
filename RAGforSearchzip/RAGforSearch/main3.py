@@ -14,7 +14,7 @@ tokenized_path = "RAGforSearchzip/RAGforSearch/dataset/tokenized_data.json"
 index_path = "RAGforSearchzip/RAGforSearch/dataset/faiss_index.index"
 
 # Configure Gemini
-GEMINI_API_KEY = "AIzaSyBwKXeud2Y2FmENDee3igwOYMvJ1gkFrys"
+GEMINI_API_KEY = "Put_Your_API_key_HERE. : )"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Load SentenceTransformer
